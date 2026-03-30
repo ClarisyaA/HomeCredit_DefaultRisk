@@ -1,6 +1,6 @@
 # Home Credit Default Risk — Credit Risk Analytics Dashboard
 
-![Dashboard Preview](assets/executive_summary.png)
+![Dashboard Preview](assets/ExecutivesSummary.png)
 
 ## Overview
 End-to-end credit risk analytics project using the Home Credit Indonesia dataset (307K applicants).
