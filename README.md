@@ -1,6 +1,6 @@
 # Home Credit Default Risk — Credit Risk Analytics Dashboard
 
-![Dashboard Preview](assets/executive_summary.png)
+![Dashboard Preview](assets/ExecutivesSummary.png)
 
 ## Overview
 End-to-end credit risk analytics project using the Home Credit Indonesia dataset (307K applicants).
@@ -72,7 +72,7 @@ into actionable business decisions through a 4-page Power BI dashboard.
 │   ├── pbi_calibration_curve.csv
 │   └── pbi_model_kpi.csv
 ├── dashboard/
-│   └── home_credit_dashboard.pbix
+│   └── HomeCredit.pbix
 ├── assets/
 │   ├── executive_summary.png
 │   ├── applicant_profile.png
@@ -83,6 +83,6 @@ into actionable business decisions through a 4-page Power BI dashboard.
 
 ## How to Use
 1. Clone repo
-2. Open `dashboard/home_credit_dashboard.pbix` with Power BI Desktop (free)
+2. Open `dashboard/HomeCredit.pbix` with Power BI Desktop (free)
 3. Update data source paths to local `data/pbi_exports/` folder
 4. Refresh data
