@@ -1,0 +1,6 @@
+Metric,Value
+Total_Features,274
+Top_SHAP_Feature,EXT_SOURCE_MEAN
+Brier_Score,0.0661
+Brier_Skill,0.1097
+Baseline_Brier,0.0742

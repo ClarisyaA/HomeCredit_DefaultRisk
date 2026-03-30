@@ -1,0 +1,14 @@
+Metric,Value,Category
+Total Applicants,307511.0,Dataset
+Default Rate (%),8.07,Dataset
+Total Credit (M),183323.8,Dataset
+Avg Credit Amount,596154.0,Dataset
+Best Model AUC,0.7887,Model
+Auto-Approve Rate (%),55.2,Policy
+Review Rate (%),34.9,Policy
+Reject Rate (%),9.9,Policy
+Optimal Threshold,0.7098,Threshold
+Brier Score,0.168,Model
+Baseline Profit (M),9289.2,Business
+Model Profit (M),13616.0,Business
+Profit Lift (%),46.6,Business
